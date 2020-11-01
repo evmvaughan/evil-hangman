@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/hangman.dir/main.cpp.o CMakeFiles/hangman.dir/hangman.cpp.o  -o hangman 

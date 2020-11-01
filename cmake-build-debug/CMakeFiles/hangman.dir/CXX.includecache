@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sudoman/Downloads/evil_hangman/hangman.cpp
+hangman.h
+/home/sudoman/Downloads/evil_hangman/hangman.h
+iostream
+-
+fstream
+-
+vector
+-
+map
+-
+set
+-
+algorithm
+-
+
+/home/sudoman/Downloads/evil_hangman/hangman.h
+string
+-
+
